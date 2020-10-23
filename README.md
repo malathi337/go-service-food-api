@@ -13,7 +13,7 @@ go run main.go -lat "47.6062" -long "-122.3321"
 ## Unofficial Golang Client
 
 ```
-import "github.com/dan-v/golang-ubereats/ubereats"
+import "github.com/malathi337/go-service-food-api/eats"
 
 // given latitude and longitude of location
 client, err := ubereats.NewClient("47.6062", "-122.3321")
