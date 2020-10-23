@@ -5,7 +5,7 @@ import (
 	"flag"
 	"html/template"
 	"net/http"
-	"github.com/malathi337/go-service-food-api/ubereats"
+	"github.com/malathi337/go-service-food-api/eats"
 )
 
 type PopularItems struct {
